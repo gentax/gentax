@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Paolo aka gentax
 #### Frontend lover
-![Frontend lover](https://github.com/gentax/gentax/blob/master/images/me.jpeg?raw=true)
+![Frontend lover](https://github.com/gentax/gentax/blob/master/images/aws-summit.jpg?raw=true)
 
 Skills in managing projects and team work, built up over years working as a self-employed professional or employee and project manager in the web area.
 
