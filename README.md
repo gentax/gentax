@@ -27,7 +27,7 @@ Actually, I work as a senior engineer for [Condé Nast Italia](https://www.conde
 ---
 
 🔭 Say hello to the brand new Condé Nast site, the gorgeous, tasty, cool La Cucina Italiana, US edition:
-https://www.lacucintaitaliana.com
+https://www.lacucinaitaliana.com
 
 Made in Nuxt.js, with the help of VueJs, a Node.js API layer to get data from the backend, it works in ServerSideMode to please Google and as a web application for the end-user.
 
