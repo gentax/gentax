@@ -22,7 +22,7 @@ Actually, I work as a senior engineer for [Condé Nast Italia](https://www.conde
 
 - :computer: Skills: VUE JS / NUXT JS / JS / HTML / CSS / NODE JS / API / APOLLO GRAPHQL / LAMBDA / SERVERLESS
 - 🌱 actively working on cne-event-service, a tool that register all Condé Nast virtual and real events around the world
-- 🌱 based on NestJs, deeply connected with MongoDB, exposed with GraphQl
+- 🌱 based on NestJs, deeply connected with MongoDB, exposed with GraphQL
 
 ---
 
