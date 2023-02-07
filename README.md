@@ -20,9 +20,9 @@ Actually, I work as a senior engineer for [Condé Nast Italia](https://www.conde
 
 --- 
 
-- :computer: Skills: VUE JS / NUXT JS / JS / HTML / CSS / NODE JS / API / APOLLO GRAPH QL 
-- 🌱 I’m currently learning Vue JS 3 
-- 🌱 Prepare the website to get all GraphQL benefits 
+- :computer: Skills: VUE JS / NUXT JS / JS / HTML / CSS / NODE JS / API / APOLLO GRAPHQL / LAMBDA / SERVERLESS
+- 🌱 actively working on cne-event-service, a tool that register all Condé Nast virtual and real events around the world
+- 🌱 based on NestJs, deeply connected with MongoDB, exposed with GraphQl
 
 ---
 
@@ -42,7 +42,7 @@ https://www.lacucinaitaliana.it
 https://www.ad-italia.it  
 
 Technology:  
-#wordpress / #angularjs / #nodejs / #nuxtjs / #amazon AWS Lamdba / #amazon AWS Cognito / #amazon AWS Kinesis / #amazon AWS ML / #vanityGenius / #serverless framework
+#nestjs / #nodejs / #nuxtjs 3 / #wordpress / #angularjs / #amazon AWS Lamdba / #amazon AWS Cognito / #amazon AWS Kinesis / #amazon AWS ML / #vanityGenius / #serverless framework
 
 ---
 
